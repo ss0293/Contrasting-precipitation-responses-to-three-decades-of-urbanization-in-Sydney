@@ -1,0 +1,2 @@
+# Contrasting-precipitation-responses-to-three-decades-of-urbanization-in-Sydney
+This repository contains the data and analysis code associated with the paper "Contrasting precipitation responses to three decades of urbanization in Sydney." It includes scripts and supporting datasets used to analyse precipitation responses to urban development using high-resolution WRF simulations from 1995 to 2020.
