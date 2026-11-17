@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated publication."
+title: "Contrasting precipitation responses to three decades of urbanization in Sydney"
+type: software
+doi: "10.0000/placeholder"
+authors:
+  - family-names: "PLACEHOLDER"
+    given-names: "Author"
+    affiliation: "PLACEHOLDER"
+repository-code: "https://github.com/ss0293/Contrasting-precipitation-responses-to-three-decades-of-urbanization-in-Sydney"
+license: "PLACEHOLDER"
+abstract: "Repository for the data, analysis code, configuration, documentation, and figures associated with the study of precipitation responses to urbanization in Greater Sydney."

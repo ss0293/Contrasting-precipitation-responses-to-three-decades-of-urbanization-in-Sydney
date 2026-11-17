@@ -1,0 +1,58 @@
+# Python caches and generated files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Virtual environments and local tooling
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example
+*.egg-info/
+dist/
+build/
+
+# Notebooks and editor checkpoints
+.ipynb_checkpoints/
+.jupyter/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary and operating-system files
+*.tmp
+*.temp
+*.log
+.DS_Store
+Thumbs.db
+
+# Climate and model data (large or generated files)
+*.nc
+*.nc4
+*.cdf
+*.grib
+*.grib2
+*.hdf
+*.h5
+*.tif
+*.tiff
+*.zarr/
+
+# Generated outputs
+outputs/
+results/
+scratch/
